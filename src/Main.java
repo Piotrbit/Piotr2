@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Client c1 = new Client();
         Client c2 = new Client();
-
+Client c3 = new Client() /* */
         c1.name = "Jan";
         c2.name = new String("Jan");
 
